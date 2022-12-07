@@ -1,0 +1,22 @@
+This is a Target Shooting Game. 
+
+in this game there are three levels:
+1> On level 1 there will be 4 rows of UFOs of different colours
+2> On level 2 there will be 3 rows of plates of different colours
+3> On level 3 there will br 3 rows of birds of different colours
+
+The player can also switch between modes:
+1>Freeplay Mode: All enemies have to be killed
+2>Accuracy Mode: Maximum enemies killed with limited gun shots
+3>CountDown Mode: Maximm enemies killed in fixed time
+
+The targets will be moving and the player has to shoot them down.
+The player will only proceed to the next level if they can kill all
+the enemies of the current Level.
+
+The Game has been developed using pygame module of Python 3.
+
+Happy Shooting Folks!!!
+
+p.s: There are some glitches on the Freeplay mode. But they shall 
+fixed soon...hope so XD
